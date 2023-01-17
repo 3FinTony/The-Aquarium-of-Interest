@@ -1,5 +1,4 @@
-# TheTank
-Tank of Defi evolution 
+# TheTank 
 the tank of Defi evolution
 }
 the tank will serve as a hedge protocol that will reward the hedged [ByStr20]  a % of liquidty equivalent to the hedge pool 
