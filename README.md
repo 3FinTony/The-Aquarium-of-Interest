@@ -6,5 +6,5 @@ the tank will serve as an Intrest bearing protocol that will reward the hedged [
 the Staking pool [ByStr20] will reward all connected addresses a % Plus anti Inflation Compensation
 ]
 \\ the Tank of Defi Evolution /// 
-}
+
 
